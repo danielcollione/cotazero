@@ -2,7 +2,7 @@
 :HL["/cotazero/_next/static/chunks/0q0pt_d1e20rd.css","style"]
 :HL["/cotazero/_next/static/chunks/1hoa_f_ad0vbf.css","style"]
 :HL["/cotazero/_next/static/chunks/0k70j3q78xjpg.css","style"]
-:HL["/cotazero/_next/static/chunks/3x1mvavzn502o.css","style"]
+:HL["/cotazero/_next/static/chunks/0b8tfo5qi5apj.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"i4TT2KeCfrx7VeFy5yoEL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"DJQy1KVR_96Z5kXnyyAeE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
